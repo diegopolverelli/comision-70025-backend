@@ -7,8 +7,6 @@ MONGO_URL=mongodb+srv://coderhouse:codercoder2023@cluster0.wpxpupc.mongodb.net/?
 GitHub:
 https://www.youtube.com/watch?v=ZpppQ4ceucU&ab_channel=Coderhouse
 
-https://forms.gle/wsUEk8mnsfhFwAAR6
-
 https://github.com/diegopolverelli/comision-70025-backend
 
 https://swapi.dev/
