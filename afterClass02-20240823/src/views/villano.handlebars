@@ -1,0 +1,14 @@
+<h2>{{villano.name}}</h2>
+<hr>
+<p>Alias: <strong>{{villano.alias}}</strong></p>
+
+<p>Poderes
+    <ul>
+        {{#each villano.powers}}
+            <li>{{.}}</li>
+        {{/each}}
+    </ul>
+</p>
+
+<p>Team: <strong>{{villano.team}}</strong></p>
+<p>Publisher: <strong>{{villano.publisher}}</strong></p>
